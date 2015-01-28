@@ -1,0 +1,6 @@
+.DS_Store
+.Python
+*.pyc
+
+# don't include the virtual env if stored in different folder
+venv/
