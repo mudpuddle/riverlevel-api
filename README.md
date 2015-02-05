@@ -6,7 +6,7 @@ data from the [NOAA Northwest River Forecast Center](http://www.nwrfc.noaa.gov).
 
 ## Running Locally
 
-Make sure you have [Flask](http://nodejs.org/) ready to go.  I typically follow the virtualenv method.
+Make sure you have [Flask](http://flask.pocoo.org/docs/0.10/installation/) ready to go.  I typically follow the virtualenv method.
 
 Clone or fork this repo...
 
